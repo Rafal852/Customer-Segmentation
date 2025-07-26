@@ -13,6 +13,10 @@ The core objective is to segment customers into distinct groups based on their c
 
 ---
 
+
+https://github.com/user-attachments/assets/81b3f241-2070-45cd-8400-e7c550c7b3db
+
+
 ## Main Features
 
 - **Data Preparation & Feature Engineering:** Cleans data, creates derived attributes (age, total spending, tenure), and applies feature scaling.
