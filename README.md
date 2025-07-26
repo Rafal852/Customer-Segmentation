@@ -14,7 +14,10 @@ The core objective is to segment customers into distinct groups based on their c
 ---
 
 
-https://github.com/user-attachments/assets/81b3f241-2070-45cd-8400-e7c550c7b3db
+
+
+https://github.com/user-attachments/assets/f1b41476-b058-4be2-8115-eb17f353f8c7
+
 
 
 ## Main Features
